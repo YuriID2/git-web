@@ -1,8 +1,8 @@
 # ActiveBox
 
-One Page Multi Purpose Website Template created by [Kamal Chaneman](http://kamalchaneman.com/)
+One Page Multi Purpose Website Template created by [Yuriy Korchakov](https://git-web-sage.vercel.app/)
 
-[Demo](http://kamalchaneman.com/activebox/)
+[Demo](https://git-web-sage.vercel.app/)
 
 ## License
 
